@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733401005652",
+    "project_id": "scanshopultra",
+    "storage_bucket": "scanshopultra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733401005652:android:f2422edd95a151375bb7c1",
+        "android_client_info": {
+          "package_name": "com.example.admin.augscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733401005652-p4kvg7f4ibesd0ludl95sis0tsbkt1jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvydPTRfQOPYBBgDtj8B2Zv4Nf41KerNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733401005652-p4kvg7f4ibesd0ludl95sis0tsbkt1jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
